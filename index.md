@@ -1,8 +1,8 @@
-<h1 style="background-color:Azure;">Portfolio</h1>
+<p style="font-family:Georgia";"background-color:BlanchedAlmond;"><font size="10">Portfolio</font></p>
 
 ---
 
-<h1 style="background-color:BlanchedAlmond;">Projects</h1> 
+<p style="font-family:Georgia";"background-color:AliceBlue;"><font size="6">Projects</font></p>
 
 ---
 
