@@ -1,4 +1,4 @@
-<h1 style="background-color:BlanchedAlmond;font-family:Garamond;">Portfolio</h1>
+<h1 style="background-color:BlanchedAlmond;font-family:Candara;">Portfolio</h1>
 
 ---
 <h2 style="background-color:Aquamarine;font-family:Comic Sans MS;">Projects</h2>
