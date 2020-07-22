@@ -2,8 +2,10 @@
 
 ---
 
-### Projects 
+<h1 style="background-color:DodgerBlue;">Projects</h1> 
+
 ---
+
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
