@@ -1,7 +1,10 @@
 title: <h1 style="background-color:#b3d1ff;font-family:Candara;">Neelove Sharma</h1> # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Friendly Neighborhood Data Scientist
+bold:
+  - Friendly Neighborhood Data Scientist
+text: |
+    Friendly Neighborhood Data Scientist
   <br><br>
   I've abundance of skills in terms of Data Analytics, Visualizations and Machine Learning backed by Internships, Courses and Certificates from renowned organizations.
   <br><br>
