@@ -1,8 +1,9 @@
-<h1 style="font-family:Georgia";"background-color:BlanchedAlmond;"><font size="10">Portfolio</font></h1>
+<h1 style="background-color:BlanchedAlmond;">Portfolio</h1>
 
 ---
+<h1 style="background-color:AliceBlue;">Projects</h1>
 
-<h1 style="font-family:Georgia";"background-color:AliceBlue;"><font size="6">Projects</font></h1>
+<p>The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.</p>
 
 ---
 
