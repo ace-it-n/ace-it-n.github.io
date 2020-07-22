@@ -1,8 +1,8 @@
-## Portfolio
+<h1 style="background-color:Azure;">Portfolio</h1>
 
 ---
 
-<h1 style="background-color:DodgerBlue;">Projects</h1> 
+<h1 style="background-color:BlanchedAlmond;">Projects</h1> 
 
 ---
 
