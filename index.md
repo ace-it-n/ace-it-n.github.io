@@ -1,11 +1,7 @@
-<h1 style="background-color:BlanchedAlmond;">Portfolio</h1>
+<h1 style="background-color:BlanchedAlmond;font-family:Georgia;">Portfolio</h1>
 
 ---
-<h2 style="background-color:AliceBlue;">Projects</h2>
-
-<p>The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.</p>
-
-<p style="background-color:Tomato;">Hi...</p>
+<h2 style="background-color:AliceBlue;font-family:cursive;">Projects</h2>
 
 ---
 
@@ -13,10 +9,12 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
