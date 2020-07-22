@@ -1,7 +1,7 @@
-<h1 style="background-color:BlanchedAlmond;font-family:Times New Roman;">Portfolio</h1>
+<h1 style="background-color:BlanchedAlmond;font-family:Courier New;">Portfolio</h1>
 
 ---
-<h2 style="background-color:AliceBlue;font-family:Comic Sans MS;">Projects</h2>
+<h2 style="background-color:Aquamarine;font-family:Comic Sans MS;">Projects</h2>
 
 ---
 
