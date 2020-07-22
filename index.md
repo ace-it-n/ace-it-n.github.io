@@ -20,7 +20,7 @@
 
 ---
 
-### Courses
+<h2 style="background-color:Aquamarine;font-family:Candara;">Courses</h2>
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
