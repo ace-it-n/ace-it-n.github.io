@@ -5,7 +5,7 @@
 
 ---
 
-[Project 1 Title](/Code)
+[Project 1 Title](/Code.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
