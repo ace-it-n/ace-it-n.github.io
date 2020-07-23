@@ -5,7 +5,7 @@
 
 ---
 
-[Project 1 Title](https://github.com/ace-it-n/Projects/blob/master/Titanic%20:%20Machine%20Learning%20From%20Disaster/README.md)
+[Project 1 Title](Projects/README)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
