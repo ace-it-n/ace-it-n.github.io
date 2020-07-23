@@ -5,7 +5,7 @@
 
 ---
 
-[Project 1 Title](/asdf)
+[Project 1 Title](/Projects/qwer)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
