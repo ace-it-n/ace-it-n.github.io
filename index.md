@@ -5,7 +5,7 @@
 
 ---
 
-[Project 1 Title](/README)
+[Project 1 Title](/asdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
