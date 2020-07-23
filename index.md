@@ -5,7 +5,7 @@
 
 ---
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](/README)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
