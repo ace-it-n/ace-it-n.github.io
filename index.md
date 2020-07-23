@@ -5,7 +5,7 @@
 
 ---
 
-[Project 1 Title](/Projects/Titanic : Machine Learning From Disaster)
+[Project 1 Title](/Projects/Titanic)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
