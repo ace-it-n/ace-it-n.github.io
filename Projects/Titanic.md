@@ -1,7 +1,6 @@
 <h1 style="background-color:BlanchedAlmond;font-family:Candara;">Titanic : Machine Learning From Disaster</h1>
 
 <a href="https://github.com/ace-it-n/Projects/tree/master/Titanic%20:%20Machine%20Learning%20From%20Disaster" target="_blank">Jupyter Notebook on Github</a>
-<br><br>
 
 <h2 style="background-color:Aquamarine;font-family:Candara;">Project Description</h2>
 
