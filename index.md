@@ -6,7 +6,6 @@
 ---
 
 [Titanic : Machine Learning From Disaster](/Projects/Titanic)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
