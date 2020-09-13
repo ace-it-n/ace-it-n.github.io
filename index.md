@@ -5,7 +5,7 @@
 
 ---
 
-- [Exploratory Data Analysis on Breast Cancer Wisconsin (Diagnostic) Data Set](/Projects/Exploratory Data Analysis on Breast Cancer Wisconsin (Diagnostic) Data Set.md)
+- [Exploratory Data Analysis on Breast Cancer Wisconsin (Diagnostic) Data Set](/Projects/Exploratory Data Analysis on Breast Cancer Wisconsin Diagnostic Data Set.md)
 
 ---
 
