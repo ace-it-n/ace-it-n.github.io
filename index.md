@@ -5,7 +5,7 @@
 
 ---
 
-- [Titanic : Machine Learning From Disaster](ace-it-n/Projects/Exploratory Data Analysis on Breast Cancer Wisconsin (Diagnostic) Data Set/README.md)
+- [Titanic : Machine Learning From Disaster](/Projects/Titanic.md)
 
 ---
 
