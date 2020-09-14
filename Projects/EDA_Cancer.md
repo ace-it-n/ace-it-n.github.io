@@ -16,3 +16,6 @@ Features are computed from a digitized image of a fine needle aspirate (FNA) of 
 - Target variable is Label encoded using Scikit-Learn Label Encoder.
 - Most features appear to have a direct proportional with the Target Variable (Diagnosis).
 - Many features appear to be correlated heavily on each other hence, feature selection needs to be done appropriately to select the best possible features.
+
+[Project 1 Title](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
