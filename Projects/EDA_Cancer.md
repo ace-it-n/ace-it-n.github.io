@@ -1,6 +1,6 @@
 <h1 style="background-color:BlanchedAlmond;font-family:Candara;">Exploratory Data Analysis on Breast Cancer Wisconsin (Diagnostic) Data Set</h1>
 
-<a href="https://github.com/ace-it-n/Projects/blob/master/Exploratory%20Data%20Analysis%20on%20Breast%20Cancer%20Wisconsin%20(Diagnostic)%20Data%20Set/Exploratory%20Data%20Analysis%20on%20Breast%20Cancer%20Wisconsin%20(Diagnostic)%20Data%20Set.ipynb">Jupyter Notebook on Github</a>
+<a href="https://github.com/ace-it-n/Projects/blob/master/Exploratory%20Data%20Analysis%20on%20Breast%20Cancer%20Wisconsin%20(Diagnostic)%20Data%20Set/Exploratory%20Data%20Analysis%20on%20Breast%20Cancer%20Wisconsin%20(Diagnostic)%20Data%20Set.ipynb" target="_blank">Jupyter Notebook on Github</a>
 
 <h2 style="background-color:Aquamarine;font-family:Candara;">Project Description</h2>
 
