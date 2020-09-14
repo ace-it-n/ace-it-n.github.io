@@ -13,7 +13,7 @@ Features are computed from a digitized image of a fine needle aspirate (FNA) of 
 - There are no missing values in the Dataset.
 - All the features are scaled using  Scikit-Learn Standard Scaler.
 - Target variable is Label encoded using Scikit-Learn Label Encoder.
-- Most features appear to have a direct proportional with the Target Variable (Diagnosis).
+- Most features appear to have a directly proportional relationship with the Target Variable (Diagnosis).
 - Many features appear to be correlated heavily on each other hence, feature selection needs to be done appropriately to select the best possible features.
 
 <img src="/images/EDA_Cancer.jpg?raw=true"/>
