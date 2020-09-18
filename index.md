@@ -9,7 +9,7 @@
 
 ---
 
-- [Project 2 Title](/pdf/sample_presentation.pdf)
+- [Multiple Linear Regression on Advertising Dataset](/Projects/Reg_Advertising.md)
 
 ---
 
