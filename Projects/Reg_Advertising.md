@@ -10,3 +10,5 @@ Abstract: Advertising Dataset from the book ISLR
 The dataset contains statistics about the sales of a product in 200 different markets, together with advertising budgets in each of these markets for different media channels: TV, radio and newspaper. The sales are in thousands of units and the budget is in thousands of dollars.
 
 There are no missing values in the Dataset.
+
+- Simple Linear Regression Model achieved  accuracy of almost 90%.
