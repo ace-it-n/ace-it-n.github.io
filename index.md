@@ -1,9 +1,18 @@
 <h1 style="background-color:BlanchedAlmond;font-family:Candara;">Portfolio</h1>
 
 ---
-<h2 style="background-color:Aquamarine;font-family:Candara;">Projects</h2>
+
+<h2 style="background-color:Aquamarine;font-family:Candara;">Virtual Internships</h2>
+
+- [Data Science, ANZ](/Internships/ANZ.md)
 
 ---
+
+- [Data Analytics, Quantium](/Internships/QUANT.md)
+
+---
+
+<h2 style="background-color:Aquamarine;font-family:Candara;">Projects</h2>
 
 - [Exploratory Data Analysis on Breast Cancer Wisconsin (Diagnostic) Data Set](/Projects/EDA_Cancer.md)
 
