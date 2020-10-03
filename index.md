@@ -53,3 +53,7 @@
 ---
 
 - [Tableau Desktop - SimpliLearn](Courses/TDSL.md)
+
+---
+
+- <a href="https://www.linkedin.com/in/ace-it-n/" target="_blank">More on LinkedIn</a>
