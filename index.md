@@ -22,3 +22,5 @@
 - [Machine Learning - Stanford University, Coursera](/Courses/ML.md)
 
 ---
+
+- [Data Scientist with Python Specialization - DataCamp](/Courses/DSDC.md)
