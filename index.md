@@ -10,8 +10,6 @@
 
 - [Data Analytics, Quantium](/Internships/QUANT.md)
 
----
-
 <h2 style="background-color:Aquamarine;font-family:Candara;">Projects</h2>
 
 - [Toxic Comment Classification using Natural Language Processing](/Projects/Toxic.md)
@@ -27,8 +25,6 @@
 ---
 
 - [M5 Forecasting Accuracy - Estimating Sales of Walmart Retail Goods](/Projects/M5.md)
-
----
 
 <h2 style="background-color:Aquamarine;font-family:Candara;">Certification Courses</h2>
 
