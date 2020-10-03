@@ -14,15 +14,19 @@
 
 <h2 style="background-color:Aquamarine;font-family:Candara;">Projects</h2>
 
-- [Exploratory Data Analysis on Breast Cancer Wisconsin (Diagnostic) Data Set](/Projects/EDA_Cancer.md)
+- [Toxic Comment Classification using Natural Language Processing](/Projects/Toxic.md)
+
+---
+
+- [Customer Market Segmentation using Clustering](/Projects/Customer.md)
+
+---
+
+- [NETFLIX Recommendation System](/Projects/Netflix.md)
 
 ---
 
 - [M5 Forecasting Accuracy - Estimating Sales of Walmart Retail Goods](/Projects/M5.md)
-
----
-
-- [Project 3 Title](http://example.com/)
 
 ---
 
