@@ -4,4 +4,5 @@
 
 Detailed conceptual and practical understanding behind some of the most popular Machine Learning Algorithms like Linear Regression, Logistic Regression, K means, SVM.
 
+
 <img src="/images/BASL.jpg?raw=true"/>
