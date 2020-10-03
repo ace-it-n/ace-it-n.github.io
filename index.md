@@ -9,7 +9,7 @@
 
 ---
 
-- [Multiple Linear Regression on Advertising Dataset](/Projects/Reg_Advertising.md)
+- [Multi-Variate Linear Regression on Advertising Dataset](/Projects/Reg_Advertising.md)
 
 ---
 
@@ -17,8 +17,8 @@
 
 ---
 
-<h2 style="background-color:Aquamarine;font-family:Candara;">Courses</h2>
+<h2 style="background-color:Aquamarine;font-family:Candara;">Certification Courses</h2>
 
-- [Project 1 Title](http://example.com/)
+- [Machine Learning - Stanford University, Coursera](/Courses/ML.md)
 
 ---
