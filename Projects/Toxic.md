@@ -5,10 +5,17 @@
 <h2 style="background-color:Aquamarine;font-family:Candara;">Project Description</h2>
 
 About the Dataset:
-Abstract: Advertising Dataset from the book ISLR
+Source - [Toxic Comment Classification Dataset](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data)
 
-The dataset contains statistics about the sales of a product in 200 different markets, together with advertising budgets in each of these markets for different media channels: TV, radio and newspaper. The sales are in thousands of units and the budget is in thousands of dollars.
+You are provided with a large number of Wikipedia comments which have been labeled by human raters for toxic behavior. The types of toxicity are:
 
-There are no missing values in the Dataset.
+- toxic
+- severe_toxic
+- obscene
+- threat
+- insult
+- identity_hate
 
-- Simple Linear Regression Model achieved  accuracy of almost 90%.
+You must create a model which predicts a probability of each type of toxicity for each comment.
+
+- LSTM RNN Model achieved accuracy of 98%
