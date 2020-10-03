@@ -26,6 +26,10 @@
 
 - [M5 Forecasting Accuracy - Estimating Sales of Walmart Retail Goods](/Projects/M5.md)
 
+---
+
+- [More on GitHub](https://github.com/ace-it-n/Projects)
+
 <h2 style="background-color:Aquamarine;font-family:Candara;">Certification Courses</h2>
 
 - [Machine Learning - Stanford University, Coursera](/Courses/ML.md)
