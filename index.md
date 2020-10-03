@@ -18,7 +18,7 @@
 
 ---
 
-- [Multi-Variate Linear Regression on Advertising Dataset](/Projects/Reg_Advertising.md)
+- [M5 Forecasting Accuracy - Estimating Sales of Walmart Retail Goods](/Projects/M5.md)
 
 ---
 
