@@ -28,7 +28,7 @@
 
 ---
 
-- [More on GitHub](https://github.com/ace-it-n/Projects)
+- <a href="https://github.com/ace-it-n/Projects" target="_blank">More on GitHub</a>
 
 <h2 style="background-color:Aquamarine;font-family:Candara;">Certification Courses</h2>
 
