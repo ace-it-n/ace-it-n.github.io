@@ -2,5 +2,5 @@
 
 Detailed conceptual and practical understanding behind some of the most popular Machine Learning Algorithms like Linear Regression, Logistic Regression, K means, SVM.
 
-<img src="/images/EDA_Cancer.jpg?raw=true"/>
+<img src="/images/ML.jpg?raw=true"/>
 
