@@ -2,7 +2,7 @@
 
 ---
 
-<h2 style="background-color:Aquamarine;font-family:Candara;">Virtual Internships</h2>
+<h2 style="background-color:Aquamarine;font-family:Candara;">Internships</h2>
 
 - [Data Science, ANZ](/Internships/ANZ.md)
 
