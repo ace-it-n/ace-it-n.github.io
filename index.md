@@ -3,6 +3,8 @@
 ---
 <h2 style="background-color:Aquamarine;font-family:Candara;"><a href="https://drive.google.com/file/d/1VHhBIwcrzsB4hDYSloKvpCSY1pvmf3b_/view?usp=sharing" target="_blank">Resume</a></h2>
 
+---
+
 <h2 style="background-color:Aquamarine;font-family:Candara;">Internships</h2>
 
 - [Data Science, ANZ](/Internships/ANZ.md)
